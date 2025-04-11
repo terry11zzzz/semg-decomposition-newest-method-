@@ -24,6 +24,5 @@ Sampling rate: 2048 HZ
 
 Reference:
 
-[1] Y.Zheng, et al., High-Density Surface EMG Decomposition by Combining Iterative Convolution Kernel Compensation With an Energy-Specific Peel-off Strategy, TNSRE 2023
-
+[1] Y.Zheng, et al., High-Density Surface EMG Decomposition by Combining Iterative Convolution Kernel Compensation With an Energy-Specific Peel-off Strategy, TNSRE 2023  
 [2] Y.Zheng, et al., Low-Energy Motor Unit Extraction During Dynamic Muscle Contractions Using Time-Domain Feature Fusion Strategy, TBME 2025 (major revision)

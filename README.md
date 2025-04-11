@@ -2,6 +2,8 @@
 2025/2/16 完成算法的可视化与模块化
 预处理部分：
 基于fieldtrip-master包，10-500Hz的4阶巴特沃斯带通滤波，陷波滤波使用dftFilterGUI
+
+
 分解部分：
 Main_dynamic_decompose.m 是主程序
 dynamic_decp_fun.m 是分解MU程序：ICKC
